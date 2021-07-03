@@ -23,7 +23,7 @@
   "dependencies": {
     "ajv": "6.12.4",
     "commander": "6.1.0",
-    "fs-extra": "9.0.1",
+    "fs-extra": "9.1.0",
     "lodash": "4.17.20",
     "mustache": "4.0.1",
     "semver": "7.3.2",
